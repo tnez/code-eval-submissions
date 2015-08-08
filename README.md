@@ -10,4 +10,7 @@ submissions.
 
 ## Medium
 
+- Longest Lines
+  ([description](https://www.codeeval.com/open_challenges/2/), [submission](./longest-lines/submission.py3))
+
 ## Hard
