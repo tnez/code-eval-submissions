@@ -6,7 +6,11 @@ submissions.
 ## Easy
 
 - FizzBuzz
-  ([description](https://www.codeeval.com/open_challenges/1/), [submission](./fizz_buzz/submission.py2))
+  ([description](https://www.codeeval.com/open_challenges/1/),
+  [submission](./fizz_buzz/submission.py2))
+
+- Print Odd Numbers
+  ([description](https://www.codeeval.com/open_challenges/25/), [submission](./print-odd-numbers/submission.py3))
 
 ## Medium
 
